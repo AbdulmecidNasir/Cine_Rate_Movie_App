@@ -26,32 +26,36 @@ Modern UI tasarımı ve açık/koyu tema desteği ile kullanıcı deneyimi üst 
 
 ## 📷 Ekran Görüntüleri
 
+### 🖥️ Main Menu
 <p align="center">
   <img src="https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-23%20232204.png" alt="Main Menu" width="300"/>
   <img src="https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-24%20085557.png" alt="Main Menu (Dark Mode)" width="300"/>
-</p>
-
-<p align="center">
   <img src="https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-23%20232256.png" alt="Searching Page" width="300"/>
-  <img src="https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-23%20232348.png" alt="Movie Detail Page" width="300"/>
 </p>
 
+<br><br>
+
+### 🖥️ Movie Detail Page
 <p align="center">
+  <img src="https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-23%20232348.png" alt="Movie Detail Page" width="300"/>
   <img src="https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-23%20233124.png" alt="Movie Detail Page 2 (Trailer)" width="300"/>
   <img src="https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-23%20233234.png" alt="Movie Category Page" width="300"/>
 </p>
 
+<br><br>
+
+### 🖥️ Movie Category & Favourites
 <p align="center">
   <img src="https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-23%20233306.png" alt="Movie Category Page (Korku)" width="300"/>
   <img src="https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-24%20090608.png" alt="Favourite Page" width="300"/>
-</p>
-
-<p align="center">
   <img src="https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-24%20085505.png" alt="Profile Page" width="300"/>
-  <img src="https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-24%20085648.png" alt="Movie Category Page (Animasyon)" width="300"/>
 </p>
 
+<br><br>
+
+### 🖥️ Animasyon ve Giriş Sayfası
 <p align="center">
+  <img src="https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-24%20085648.png" alt="Movie Category Page (Animasyon)" width="300"/>
   <img src="https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-24%20090134.png" alt="Sign In/Sign Up Page" width="300"/>
 </p>
 
