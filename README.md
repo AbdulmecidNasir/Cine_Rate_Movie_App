@@ -1,4 +1,4 @@
-# 🎬 Movie Trailer App 📱
+# 🎬 CineRate Movie Trailer App 📱
 
 Flutter ile geliştirdiğim **Movie Trailer App**, kullanıcıların popüler filmleri keşfedip, favori listesi oluşturabileceği ve kendi profillerini yönetebileceği bir mobil uygulamadır.  
 Uygulama, **The Movie Database (TMDB)** API’si ile güncel film bilgilerini kullanıcıya sunar.
@@ -23,6 +23,42 @@ Modern UI tasarımı ve açık/koyu tema desteği ile kullanıcı deneyimi üst 
 - **Material Design**: Modern UI prensipleri  
 
 ---
+
+## 📷 Ekran Görüntüleri
+
+### 🖥️ Main Menu
+![Main Menu](https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-23%20232204.png)
+
+### 🖥️ Main Menu (Dark Mode)
+![Main Menu (Dark Mode)](https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-24%20085557.png)
+
+### 🖥️ Searching Page
+![Searching Page](https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-23%20232256.png)
+
+### 🖥️ Movie Detail Page
+![Movie Detail Page](https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-23%20232348.png)
+
+### 🖥️ Movie Detail Page 2 (Trailer)
+![Movie Detail Page 2 (Trailer)](https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-23%20233124.png)
+
+### 🖥️ Movie Category Page
+![Movie Category Page](https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-23%20233234.png)
+
+### 🖥️ Movie Category Page (Korku)
+![Movie Category Page (Korku)](https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-23%20233306.png)
+
+### 🖥️ Favourite Page
+![Favourite Page](https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-24%20090608.png)
+
+### 🖥️ Profile Page
+![Profile Page](https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-24%20085505.png)
+
+### 🖥️ Movie Category Page (Animasyon)
+![Movie Category Page (Animasyon)](https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-24%20085648.png)
+
+### 🖥️ Sign In/Sign Up page
+![Sign In/Sign Up page](https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-24%20090134.png)
+
 
 ## 📂 Proje Yapısı ve Mimarisi
 
@@ -88,3 +124,4 @@ Veri Güvenliği: Local SQLite ve Shared Preferences kullanımı
 Performans: API isteklerinde cache ve lazy loading yapısı
 
 Hata Yönetimi: API ve veri işlemlerinde try-catch yapısı
+
