@@ -27,10 +27,10 @@ Modern UI tasarımı ve açık/koyu tema desteği ile kullanıcı deneyimi üst 
 ## 📷 Ekran Görüntüleri
 
 ### 🖥️ Main Menu
-![Main Menu](https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-23%20232204.png)
-
-### 🖥️ Main Menu (Dark Mode)
+![Main Menu](https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-23%20232204.png)  ### 🖥️ Main Menu (Dark Mode)
 ![Main Menu (Dark Mode)](https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-24%20085557.png)
+
+
 
 ### 🖥️ Searching Page
 ![Searching Page](https://github.com/AbdulmecidNasir/Cine_Rate_Movie_App/blob/1cc3fa4d69af65746d015cefbce85aba89f922e5/screenshots/Screenshot%202025-06-23%20232256.png)
